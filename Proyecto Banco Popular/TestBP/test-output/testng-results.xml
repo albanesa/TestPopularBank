@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-28T02:24:02Z" name="Default suite" finished-at="2021-05-28T02:24:40Z" duration-ms="37354">
+    <groups>
+    </groups>
+    <test started-at="2021-05-28T02:24:02Z" name="Default test" finished-at="2021-05-28T02:24:40Z" duration-ms="37354">
+      <class name="com.BP.qa.tests.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.BP.qa.tests.LoginPageTest@2a3591c5]" started-at="2021-05-28T02:24:02Z" name="setUp" finished-at="2021-05-28T02:24:05Z" duration-ms="2700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invalidLoginWrongUserName()[pri:0, instance:com.BP.qa.tests.LoginPageTest@2a3591c5]" started-at="2021-05-28T02:24:05Z" name="invalidLoginWrongUserName" finished-at="2021-05-28T02:24:14Z" duration-ms="8871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginWrongUserName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.BP.qa.tests.LoginPageTest@2a3591c5]" started-at="2021-05-28T02:24:14Z" name="tearDown" finished-at="2021-05-28T02:24:15Z" duration-ms="916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.BP.qa.tests.LoginPageTest@2a3591c5]" started-at="2021-05-28T02:24:15Z" name="setUp" finished-at="2021-05-28T02:24:18Z" duration-ms="2698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invalidLoginWrongPass()[pri:1, instance:com.BP.qa.tests.LoginPageTest@2a3591c5]" started-at="2021-05-28T02:24:18Z" name="invalidLoginWrongPass" finished-at="2021-05-28T02:24:26Z" duration-ms="8435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginWrongPass -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.BP.qa.tests.LoginPageTest@2a3591c5]" started-at="2021-05-28T02:24:26Z" name="tearDown" finished-at="2021-05-28T02:24:27Z" duration-ms="877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.BP.qa.tests.LoginPageTest@2a3591c5]" started-at="2021-05-28T02:24:27Z" name="setUp" finished-at="2021-05-28T02:24:30Z" duration-ms="2951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validLogin()[pri:2, instance:com.BP.qa.tests.LoginPageTest@2a3591c5]" started-at="2021-05-28T02:24:30Z" name="validLogin" finished-at="2021-05-28T02:24:39Z" duration-ms="8452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.BP.qa.tests.LoginPageTest@2a3591c5]" started-at="2021-05-28T02:24:39Z" name="tearDown" finished-at="2021-05-28T02:24:40Z" duration-ms="890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.BP.qa.tests.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
